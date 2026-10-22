@@ -1,0 +1,14 @@
+Alex Candidate
+Junior AI Developer
+
+Summary
+Computer science graduate with project experience building predictive machine learning models and data-driven applications.
+
+Projects
+- Built a Python machine learning pipeline with Scikit-learn to classify structured data.
+- Used Pandas and NumPy for data cleaning and analysis.
+- Created a small web application with Flask to demonstrate model predictions.
+- Used Git for version control and documented project setup.
+
+Skills
+Python, Machine Learning, Scikit-learn, Pandas, NumPy, Flask, SQL, Git, Data Analysis.

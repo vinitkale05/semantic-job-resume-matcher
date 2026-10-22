@@ -1,0 +1,13 @@
+Junior Machine Learning Engineer
+
+Responsibilities
+- Develop and evaluate predictive machine learning models.
+- Use Python and data analysis libraries to prepare datasets.
+- Build REST APIs for model serving and collaborate on deployment.
+- Query relational databases using SQL.
+- Explain model performance and document experiments.
+
+Required skills
+Python, Machine Learning, SQL, REST APIs, Data Analysis, Git.
+Preferred skills
+Docker, cloud deployment, and experience with model monitoring.
